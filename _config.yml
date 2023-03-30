@@ -1,2 +1,3 @@
 # Set markdown processor ("GFM" or "kramdown")
 markdown: GFM
+theme: hacker
