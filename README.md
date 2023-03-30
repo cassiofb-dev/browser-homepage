@@ -126,6 +126,9 @@
   - [CVEs](https://cve.mitre.org/)
   - [Docker HUB](https://hub.docker.com/)
     - You can search if your distro has exploits, [example](https://hub.docker.com/_/centos/tags) on vulnerability column.
+  - Pentesting
+    - [vulnx](https://github.com/anouarbensaad/vulnx)
+    - [nikto](https://github.com/sullo/nikto)
 </details>
 
 ---
