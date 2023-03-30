@@ -156,7 +156,7 @@
 
 ## Usage
 
-Go to your browser settings and set this page as your default homepage.
+Go to your browser settings and set [this page](https://cassiofb-dev.github.io/browser-homepage/) as your default homepage.
 
 - How to change homepage?
   - [Firefox](https://support.mozilla.org/en-US/kb/how-to-set-the-home-page)
