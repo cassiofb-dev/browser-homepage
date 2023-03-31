@@ -54,8 +54,9 @@
 <details>
   <summary>Linux Distros</summary>
 
-  [Upstream Kernel Source](https://github.com/torvalds/linux)
-
+  - [Upstream Kernel Source](https://github.com/torvalds/linux)
+  - [Distros Reviews](https://distrowatch.com/dwres.php?resource=ranking)
+  - [Flathub](https://flathub.org/home)
   - [Void](https://voidlinux.org/)
     - [Docs](https://docs.voidlinux.org/)
     - [Packages](https://voidlinux.org/packages/)
