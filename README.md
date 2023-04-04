@@ -52,23 +52,28 @@
 ---
 
 <details>
-  <summary>Linux Distros</summary>
+  <summary>Linux</summary>
 
   - [Upstream Kernel Source](https://github.com/torvalds/linux)
-  - [Distros Reviews](https://distrowatch.com/dwres.php?resource=ranking)
   - [Flathub](https://flathub.org/home)
-  - [Void](https://voidlinux.org/)
-    - [Docs](https://docs.voidlinux.org/)
-    - [Packages](https://voidlinux.org/packages/)
-  - [Alpine](https://www.alpinelinux.org/)
-    - [Docs](https://docs.alpinelinux.org/user-handbook/0.1a/index.html)
-    - [Packages](https://pkgs.alpinelinux.org/packages)
-  - [Manjaro](https://manjaro.org/)
-    - [Docs](https://docs.manjaro.org/)
-    - [Packages](https://packages.manjaro.org/)
-  - [Ubuntu](https://ubuntu.com/)
-    - [Docs](https://docs.ubuntu.com/)
-    - [Packages](https://packages.ubuntu.com/)
+  - [Distros](https://distrowatch.com/dwres.php?resource=ranking)
+    - [Void](https://voidlinux.org/)
+      - [Docs](https://docs.voidlinux.org/)
+      - [Packages](https://voidlinux.org/packages/)
+    - [Alpine](https://www.alpinelinux.org/)
+      - [Docs](https://docs.alpinelinux.org/user-handbook/0.1a/index.html)
+      - [Packages](https://pkgs.alpinelinux.org/packages)
+    - [Manjaro](https://manjaro.org/)
+      - [Docs](https://docs.manjaro.org/)
+      - [Packages](https://packages.manjaro.org/)
+    - [Ubuntu](https://ubuntu.com/)
+      - [Docs](https://docs.ubuntu.com/)
+      - [Packages](https://packages.ubuntu.com/)
+  - [Wayland](https://en.wikipedia.org/wiki/Wayland_(protocol))
+    - [Sway](https://github.com/swaywm/sway)
+    - [Wayfire](https://github.com/WayfireWM/wayfire)
+    - [River](https://github.com/riverwm/river)
+    - [Hyprland](https://github.com/hyprwm/Hyprland)
 </details>
 
 ---
