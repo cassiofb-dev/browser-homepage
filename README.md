@@ -115,6 +115,10 @@
     - [GenshinGG](https://genshin.gg/)
     - [Project Amber](https://ambr.top/en)
     - [Genshin Interactive Map](https://genshin-impact-map.appsample.com/)
+  - [Orna RPG](https://playorna.com/)
+    - [Orna Wiki](https://ornarpg.fandom.com/wiki/Orna_RPG_Wiki)
+    - [Orna Guide](https://orna.guide/)
+    - [Orna Builds](https://ornabuilds.com/)
 </details>
 
 ---
