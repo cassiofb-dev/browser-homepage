@@ -114,7 +114,7 @@
 ---
 
 <details>
-  <summary>Game Utils</summary>
+  <summary>Games</summary>
 
   - [Genshin Impact](https://genshin.mihoyo.com/en)
     - [GenshinGG](https://genshin.gg/)
@@ -124,6 +124,7 @@
     - [Orna Wiki](https://ornarpg.fandom.com/wiki/Orna_RPG_Wiki)
     - [Orna Guide](https://orna.guide/)
     - [Orna Builds](https://ornabuilds.com/)
+    - [Orna Basics Guide](https://www.ornalegends.com/home/the-ultimate-ornarpg-beginner-basics-guide)
 </details>
 
 ---
