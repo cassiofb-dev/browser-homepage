@@ -125,6 +125,10 @@
     - [Orna Guide](https://orna.guide/)
     - [Orna Builds](https://ornabuilds.com/)
     - [Orna Basics Guide](https://www.ornalegends.com/home/the-ultimate-ornarpg-beginner-basics-guide)
+  - [Chess](https://lichess.org/)
+    - [Live Ratings](https://2700chess.com/)
+    - [World Chess Championships](https://en.wikipedia.org/wiki/World_Chess_Championship)
+      - [Lichess](https://lichess.org/page/world-championships)
 </details>
 
 ---
