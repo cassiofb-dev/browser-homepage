@@ -155,6 +155,17 @@
 ---
 
 <details>
+  <summary>Finance</summary>
+
+  - [USD -> BTC](https://www.xe.com/currencycharts/?from=USD&to=BTC&view=1M)
+  - [USD -> EUR](https://www.xe.com/currencycharts/?from=USD&to=EUR&view=1M)
+  - [USD -> BRL](https://www.xe.com/currencycharts/?from=USD&to=BRL&view=1M)
+  - [USD -> CNY](https://www.xe.com/currencycharts/?from=USD&to=CNY&view=1M)
+</details>
+
+---
+
+<details>
   <summary>Shopping</summary>
 
   - [Amazon](https://www.amazon.com)
