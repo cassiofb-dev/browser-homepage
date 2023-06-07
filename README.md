@@ -1,5 +1,5 @@
 <h1 align="center">
-  Browser Homepage
+  🇺🇦 Browser Homepage 🇺🇦
 </h1>
 
 <h4 align="center">Useful URLs for quick access (use mouse middle button for opening links on new tabs)</h4>
@@ -47,6 +47,22 @@
   - [Twitter](https://twitter.com/home)
   - [Discord](https://discord.com/channels/@me)
   - [Kitsu](https://kitsu.io/explore/anime)
+</details>
+
+---
+
+<details>
+  <summary>Hardware Specifications</summary>
+
+  - [Gadget Versus](https://gadgetversus.com/)
+  - [Technical City](https://technical.city/en)
+  - [Nano Review](https://nanoreview.net/)
+  - [CPU Monkey](https://www.cpu-monkey.com/en/)
+  - [Smartphones](https://www.devicespecifications.com/en)
+    - [Redmi Go](https://www.devicespecifications.com/en/model/c50e4f06)
+    - [Redmi note 8 T](https://www.devicespecifications.com/en/model/342f51e4)
+    - [Poco m5](https://www.devicespecifications.com/en/model/b3d05a68)
+    - [Unihertz Tank](https://www.devicespecifications.com/en/model/f2905b84)
 </details>
 
 ---
