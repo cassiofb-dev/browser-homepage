@@ -31,14 +31,18 @@
 ---
 
 <details>
-  <summary>Video Platforms</summary>
+  <summary>Media Platforms</summary>
 
-  - [Youtube](https://www.youtube.com/)
-    - [Piped](https://piped.video/) (Youtube Open Source Client)
-  - [NewPipe](https://newpipe.net/) (Client for other services besides youtube)
-  - [BiliBili](https://www.bilibili.tv/en)
-  - [Twitch](https://www.twitch.tv/)
-  - [NicoNico](https://www.nicovideo.jp/)
+  - Video
+    - [Youtube](https://www.youtube.com/)
+    - [BiliBili](https://www.bilibili.tv/en)
+    - [Twitch](https://www.twitch.tv/)
+    - [NicoNico](https://www.nicovideo.jp/)
+    - [NewPipe](https://newpipe.net/)
+    - [Piped - Youtube Client](https://github.com/TeamPiped/Piped)
+      - [Piped - Instance](https://piped.video/)
+  - Music
+    - [Hyperpipe - Youtube Music Client](https://hyperpipe.surge.sh/)
 </details>
 
 ------
@@ -47,7 +51,7 @@
   <summary>AI Tools</summary>
 
   - [Chat GPT](https://chat.openai.com/)
-  - [waifu2x - image upscaller](https://github.com/nagadomi/waifu2x)
+  - [waifu2x - Image Upscaller](https://github.com/nagadomi/waifu2x)
     - [waifu2x Cloud](https://waifu2x.udp.jp/)
     - [waifu2x Browser](https://unlimited.waifu2x.net/)
 </details>
