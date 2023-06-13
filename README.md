@@ -52,6 +52,8 @@
     - [waifu2x Browser](https://unlimited.waifu2x.net/)
 </details>
 
+------
+
 <details>
   <summary>Social Networks</summary>
 
