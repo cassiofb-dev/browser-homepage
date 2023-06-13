@@ -1,13 +1,15 @@
 <h1 align="center">
-  🇺🇦 Browser Homepage 🇺🇦
+  Browser Homepage
 </h1>
 
 <h4 align="center">Useful URLs for quick access (use mouse middle button for opening links on new tabs)</h4>
 
 <p align="center">
+  🇺🇦 •
   <a href="#usage">Usage</a> •
   <a href="#customize">Customize</a> •
-  <a href="#license">License</a>
+  <a href="#license">License</a> •
+  🇺🇦
 </p>
 
 ---
@@ -22,6 +24,8 @@
     - [SearX](https://github.com/searx/searx)
     - [SearXNG](https://github.com/searxng/searxng)
     - [Whoogle](https://github.com/benbusby/whoogle-search)
+  - Image Search
+    - [SauceNAO](https://saucenao.com/)
 </details>
 
 ---
@@ -37,7 +41,16 @@
   - [NicoNico](https://www.nicovideo.jp/)
 </details>
 
----
+------
+
+<details>
+  <summary>AI Tools</summary>
+
+  - [Chat GPT](https://chat.openai.com/)
+  - [waifu2x - image upscaller](https://github.com/nagadomi/waifu2x)
+    - [waifu2x Cloud](https://waifu2x.udp.jp/)
+    - [waifu2x Browser](https://unlimited.waifu2x.net/)
+</details>
 
 <details>
   <summary>Social Networks</summary>
