@@ -48,8 +48,9 @@
 ------
 
 <details>
-  <summary>AI Tools</summary>
+  <summary>Tools</summary>
 
+  - [PDF editor](https://pdf-editor.vercel.app/)
   - [Chat GPT](https://chat.openai.com/)
   - [waifu2x - Image Upscaller](https://github.com/nagadomi/waifu2x)
     - [waifu2x Cloud](https://waifu2x.udp.jp/)
