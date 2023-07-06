@@ -184,6 +184,7 @@
     - [Google Chrome](https://www.cvedetails.com/product/15031/Google-Chrome.html)
     - [Mozilla Firefox](https://www.cvedetails.com/product/3264/Mozilla-Firefox.html)
     - [Visual Studio Code](https://www.cvedetails.com/product/50646/Microsoft-Visual-Studio-Code.html)
+    - [Linuex Kernel](https://www.cvedetails.com/product/47/Linux-Linux-Kernel.html?vendor_id=33)
     - [Ubuntu Linux](https://www.cvedetails.com/product/20550/Canonical-Ubuntu-Linux.html)
     - [Microsoft Windows 11](https://www.cvedetails.com/product/102217/Microsoft-Windows-11.html)
 </details>
