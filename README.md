@@ -1,15 +1,13 @@
 <h1 align="center">
-  Browser Homepage
+  Browser Homepage 🇺🇦
 </h1>
 
 <h4 align="center">Useful URLs for quick access (use mouse middle button for opening links on new tabs)</h4>
 
 <p align="center">
-  🇺🇦 •
   <a href="#usage">Usage</a> •
   <a href="#customize">Customize</a> •
-  <a href="#license">License</a> •
-  🇺🇦
+  <a href="#license">License</a> 
 </p>
 
 ---
@@ -213,12 +211,13 @@
 ---
 
 <details>
-  <summary>Work</summary>
+  <summary>Dev</summary>
 
-  - [JIRA](https://onerpm.atlassian.net/jira/projects)
-  - [BitBucket](https://bitbucket.org/onerpm/workspace/repositories)
-  - [Gmail](https://mail.google.com/mail/u/1/#inbox)
-  - [Classroom](https://classroom.google.com/u/1/)
+  - [Github](https://github.com/cassiofb-dev)
+  - [Website](https://cassio-souza.pages.dev/)
+    - [Cloudflare](https://dash.cloudflare.com)
+    - [Google Search Console](https://search.google.com/u/1/search-console?resource_id=https://cassio-souza.pages.dev/)
+    - [Bing Webmaster](https://www.bing.com/webmasters/home)
 </details>
 
 ---
