@@ -49,6 +49,7 @@
   <summary>Tools</summary>
 
   - [Awesome AI Tools](https://github.com/pingan8787/awesome-ai-tools)
+  - [Lines of Code](https://codetabs.com/count-loc/count-loc-online.html)
   - [PDF editor](https://pdf-editor.vercel.app/)
   - [Chat GPT](https://chat.openai.com/)
   - [waifu2x - Image Upscaller](https://github.com/nagadomi/waifu2x)
