@@ -175,6 +175,7 @@
   - [OWASP Top Ten](https://cheatsheetseries.owasp.org/index.html)
   - [NIST CVEs](https://nvd.nist.gov/vuln/search)
   - [CVEs](https://cve.mitre.org/)
+  - [Spectre Meltdown Checker](https://github.com/speed47/spectre-meltdown-checker) (Check CVEs that affect your system)
   - [Docker HUB](https://hub.docker.com/)
     - You can search if your distro has exploits, [example](https://hub.docker.com/_/centos/tags) on vulnerability column.
   - Pentesting
