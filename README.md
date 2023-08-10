@@ -140,6 +140,15 @@
 ---
 
 <details>
+  <summary>Science</summary>
+
+  - [James Webb Images](https://webbtelescope.org/images)
+  - [Millenium Prize Problems](https://en.wikipedia.org/wiki/Millennium_Prize_Problems)
+</details>
+
+---
+
+<details>
   <summary>News</summary>
 
   - [Phoronix](https://www.phoronix.com/)
