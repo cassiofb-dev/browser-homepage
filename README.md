@@ -162,6 +162,7 @@
   <summary>Games</summary>
 
   - [Genshin Impact](https://genshin.mihoyo.com/en)
+    - [Paimon.moe](https://paimon.moe/)
     - [GenshinGG](https://genshin.gg/)
     - [Project Amber](https://ambr.top/en)
     - [Genshin Interactive Map](https://genshin-impact-map.appsample.com/)
