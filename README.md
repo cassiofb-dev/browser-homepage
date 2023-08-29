@@ -48,6 +48,7 @@
 <details>
   <summary>Tools</summary>
 
+  - [Planning Poker](https://planning-poker-agile.web.app)
   - [Awesome AI Tools](https://github.com/pingan8787/awesome-ai-tools)
   - [Lines of Code](https://codetabs.com/count-loc/count-loc-online.html)
   - [PDF editor](https://pdf-editor.vercel.app/)
