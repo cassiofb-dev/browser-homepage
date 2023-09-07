@@ -1,5 +1,6 @@
 <h1 align="center">
-  Browser Homepage 🇺🇦
+  🇺🇦 <br>
+  Browser Homepage
 </h1>
 
 <h4 align="center">Useful URLs for quick access (use mouse middle button for opening links on new tabs)</h4>
@@ -8,6 +9,10 @@
   <a href="#usage">Usage</a> •
   <a href="#customize">Customize</a> •
   <a href="#license">License</a> 
+</p>
+
+<p align="center">
+  <a href="https://libredirect.github.io/">LibRedirect</a>
 </p>
 
 ---
