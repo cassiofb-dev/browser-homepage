@@ -191,6 +191,7 @@
   - [OWASP Top Ten](https://cheatsheetseries.owasp.org/index.html)
   - [NIST CVEs](https://nvd.nist.gov/vuln/search)
   - [CVEs](https://cve.mitre.org/)
+  - [CVEs (Debian Security Tracker)](https://security-tracker.debian.org/tracker/)
   - [Spectre Meltdown Checker](https://github.com/speed47/spectre-meltdown-checker) (Check CVEs that affect your system)
   - [Docker HUB](https://hub.docker.com/)
     - You can search if your distro has exploits, [example](https://hub.docker.com/_/centos/tags) on vulnerability column.
@@ -232,11 +233,19 @@
 <details>
   <summary>Dev</summary>
 
-  - [Github](https://github.com/cassiofb-dev)
-  - [Website](https://cassio-souza.pages.dev/)
-    - [Cloudflare](https://dash.cloudflare.com)
-    - [Google Search Console](https://search.google.com/u/1/search-console?resource_id=https://cassio-souza.pages.dev/)
-    - [Bing Webmaster](https://www.bing.com/webmasters/home)
+  - DevOps
+    - [Github](https://github.com/cassiofb-dev)
+    - [Website](https://cassio-souza.pages.dev/)
+      - [Cloudflare](https://dash.cloudflare.com)
+      - [Google Search Console](https://search.google.com/u/1/search-console?resource_id=https://cassio-souza.pages.dev/)
+      - [Bing Webmaster](https://www.bing.com/webmasters/home)
+  - Game Engines
+    - C++
+      - [Godot](https://github.com/godotengine/godot)
+    - Rust
+      - [Bevy](https://github.com/bevyengine/bevy)
+      - [Amethyst](https://github.com/amethyst)
+      - [Fyrox](https://github.com/FyroxEngine/Fyrox)
 </details>
 
 ---
