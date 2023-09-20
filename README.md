@@ -167,6 +167,8 @@
 <details>
   <summary>Games</summary>
 
+  - [Baldur's Gate 3](https://baldursgate3.game/)
+    - [Game8](https://game8.co/games/Baldurs-Gate-III)
   - [Genshin Impact](https://genshin.mihoyo.com/en)
     - [Paimon.moe](https://paimon.moe/)
     - [GenshinGG](https://genshin.gg/)
