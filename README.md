@@ -160,6 +160,7 @@
   - [Phoronix](https://www.phoronix.com/)
   - [Tom's Hardware](https://www.tomshardware.com/)
   - [The Hacker](https://thehackernews.com/)
+  - [BleepingComputer](https://www.bleepingcomputer.com/)
 </details>
 
 ---
