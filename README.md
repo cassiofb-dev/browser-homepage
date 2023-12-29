@@ -53,6 +53,8 @@
 <details>
   <summary>Tools</summary>
 
+  - [Simple Image Editor](https://ondras.github.io/photo/)
+  - [Simple Audio Editor](https://audioalter.com/)
   - [Planning Poker](https://planning-poker-agile.web.app)
   - [Awesome AI Tools](https://github.com/pingan8787/awesome-ai-tools)
   - [Lines of Code](https://codetabs.com/count-loc/count-loc-online.html)
