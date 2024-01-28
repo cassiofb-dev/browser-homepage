@@ -201,6 +201,7 @@
   - [CVEs](https://cve.mitre.org/)
   - [CVEs (Debian Security Tracker)](https://security-tracker.debian.org/tracker/)
   - [Spectre Meltdown Checker](https://github.com/speed47/spectre-meltdown-checker) (Check CVEs that affect your system)
+  - [Linux Hardening](https://wiki.archlinux.org/title/security)
   - [Linux Security Articles](https://madaidans-insecurities.github.io/)
   - [Docker HUB](https://hub.docker.com/)
     - You can search if your distro has exploits, [example](https://hub.docker.com/_/centos/tags) on vulnerability column.
@@ -214,6 +215,9 @@
     - [Linuex Kernel](https://www.cvedetails.com/product/47/Linux-Linux-Kernel.html?vendor_id=33)
     - [Ubuntu Linux](https://www.cvedetails.com/product/20550/Canonical-Ubuntu-Linux.html)
     - [Microsoft Windows 11](https://www.cvedetails.com/product/102217/Microsoft-Windows-11.html)
+  - [Privacy](https://privacytests.org/)
+    - [Tracking Test](https://coveryourtracks.eff.org/)
+    - [Tor launcher](https://flathub.org/apps/org.torproject.torbrowser-launcher)
 </details>
 
 ---
