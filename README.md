@@ -179,6 +179,7 @@
     - [GenshinGG](https://genshin.gg/)
     - [Paimon.moe](https://paimon.moe/)
     - [Wallpapers](https://drive.google.com/drive/folders/10wk1lrUlpmXZjWetKta7UTX-Cy7J_D9s)
+    - [Wallpapers - Official](https://drive.google.com/drive/folders/10ulrhy1E74FGjoGuiF1YX1n9mOwoyfSy)
     - [Project Amber](https://ambr.top/en)
     - [Interactive Map](https://genshin-impact-map.appsample.com/)
   - [Chess](https://lichess.org/)
