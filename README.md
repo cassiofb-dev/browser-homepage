@@ -173,6 +173,8 @@
 <details>
   <summary>Games</summary>
 
+  - [Retro BIOS](https://github.com/archtaurus/RetroPieBIOS)
+  - [Retro ROMS](https://r-roms.github.io/)
   - [Baldur's Gate 3](https://baldursgate3.game/)
     - [Game8](https://game8.co/games/Baldurs-Gate-III)
   - [Genshin Impact](https://genshin.mihoyo.com/en)
