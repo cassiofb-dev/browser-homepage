@@ -36,6 +36,7 @@
 <details>
   <summary>Media Platforms</summary>
 
+  - [Free Media](https://fmhy.net/)
   - Video
     - [Youtube](https://www.youtube.com/)
     - [BiliBili](https://www.bilibili.tv/en)
@@ -100,6 +101,7 @@
 
   - [Upstream Kernel Source](https://github.com/torvalds/linux)
   - [Flathub](https://flathub.org/home)
+  - [Xenia](https://xenia.chimmie.k.vu/)
   - [Distros](https://distrowatch.com/dwres.php?resource=ranking)
     - [Void](https://voidlinux.org/)
       - [Docs](https://docs.voidlinux.org/)
@@ -117,10 +119,10 @@
       - [Wiki](https://archlinux.org/)
       - [Packages](https://wiki.archlinux.org/title/pacman)
   - [Wayland](https://en.wikipedia.org/wiki/Wayland_(protocol))
-    - [Sway](https://github.com/swaywm/sway)
+    - [Hyprland](https://github.com/hyprwm/Hyprland)
     - [Wayfire](https://github.com/WayfireWM/wayfire)
     - [River](https://github.com/riverwm/river)
-    - [Hyprland](https://github.com/hyprwm/Hyprland)
+    - [Sway](https://github.com/swaywm/sway)
 </details>
 
 ---
