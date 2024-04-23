@@ -195,6 +195,14 @@
 ---
 
 <details>
+  <summary>Artwork</summary>
+
+  - [Moe Logos](https://onedrive.live.com/?authkey=%21ADkelorAY%2DHPbS4&id=4B3290FB3CEB441A%219144&cid=4B3290FB3CEB441A)
+</details>
+
+---
+
+<details>
   <summary>Security</summary>
 
   - [OWASP Top Ten](https://cheatsheetseries.owasp.org/index.html)
