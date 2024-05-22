@@ -157,6 +157,11 @@
 
   - [James Webb Images](https://webbtelescope.org/images)
   - [Millenium Prize Problems](https://en.wikipedia.org/wiki/Millennium_Prize_Problems)
+  - Youtube Channels
+    - [Kurzgesagt](https://www.youtube.com/@kurzgesagt)
+    - [Anton Petrov](https://www.youtube.com/@whatdamath)
+    - [PBS Space Time](https://www.youtube.com/@pbsspacetime)
+    - [Sabine Hossenfelder](https://www.youtube.com/@SabineHossenfelder)
 </details>
 
 ---
