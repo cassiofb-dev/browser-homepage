@@ -219,7 +219,7 @@
   - [Linux Security Articles](https://madaidans-insecurities.github.io/)
   - [Docker HUB](https://hub.docker.com/)
     - You can search if your distro has exploits, [example](https://hub.docker.com/_/centos/tags) on vulnerability column.
-  - Pentesting
+  - [Pentesting](https://en.wikipedia.org/wiki/Penetration_test)
     - [vulnx](https://github.com/anouarbensaad/vulnx)
     - [nikto](https://github.com/sullo/nikto)
   - [Software CVEs](https://www.cvedetails.com/)
@@ -232,6 +232,14 @@
   - [Privacy](https://privacytests.org/)
     - [Tracking Test](https://coveryourtracks.eff.org/)
     - [Tor launcher](https://flathub.org/apps/org.torproject.torbrowser-launcher)
+  - Linux Security Scanners
+    - [ClamAV](https://github.com/Cisco-Talos/clamav)
+    - [OpenVAS](https://github.com/greenbone/openvas-scanner)
+    - [LMD](https://github.com/rfxn/linux-malware-detect)
+    - [Maltrail](https://github.com/stamparm/maltrail)
+    - [Lynis](https://github.com/CISOfy/lynis)
+    - [Clair](https://github.com/quay/clair)
+    - [Trivy](https://github.com/aquasecurity/trivy)
 </details>
 
 ---
