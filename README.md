@@ -54,6 +54,7 @@
 <details>
   <summary>Tools</summary>
 
+  - [Awesome Image Optimizer](https://squoosh.app/)
   - [Simple Image Editor](https://ondras.github.io/photo/)
   - [Simple Audio Editor](https://audioalter.com/)
   - [Planning Poker](https://planning-poker-agile.web.app)
