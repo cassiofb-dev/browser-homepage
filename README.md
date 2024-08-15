@@ -174,6 +174,9 @@
   - [Tom's Hardware](https://www.tomshardware.com/)
   - [The Hacker](https://thehackernews.com/)
   - [BleepingComputer](https://www.bleepingcomputer.com/)
+  - [Security Week](https://www.securityweek.com/)
+  - [The Verge](https://www.theverge.com/)
+  - [The Register](https://www.theregister.com/)
 </details>
 
 ---
