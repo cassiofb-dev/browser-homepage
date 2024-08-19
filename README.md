@@ -100,6 +100,7 @@
 <details>
   <summary>Linux</summary>
 
+  - [Packages - Repology](https://repology.org/)
   - [Upstream Kernel Source](https://github.com/torvalds/linux)
   - [Flathub](https://flathub.org/home)
   - [Xenia](https://xenia.chimmie.k.vu/)
