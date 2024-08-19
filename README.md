@@ -298,10 +298,8 @@ Go to your browser settings and set [this page](https://cassiofb-dev.github.io/b
   - [Firefox](https://support.mozilla.org/en-US/kb/how-to-set-the-home-page)
   - [Google Chrome](https://support.google.com/chrome/answer/95314?hl=en&co=GENIE.Platform%3DDesktop)
 
-## Customize
+## [Customize](https://github.dev/cassiofb-dev/browser-homepage)
 
 This project idea is to be a good homepage for me, I will accept pull requests but it would be much faster and better if you just create and edit your own [fork](https://github.com/cassiofb-dev/browser-homepage/fork).
 
 ## License
-
-MIT
