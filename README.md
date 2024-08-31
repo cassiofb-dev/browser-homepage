@@ -77,6 +77,18 @@
   - [Twitter](https://twitter.com/home)
   - [Discord](https://discord.com/channels/@me)
   - [Kitsu](https://kitsu.io/explore/anime)
+  - [Mastodon](https://mastodon.social/home)
+    - Floss Projects
+      - Linux Distros
+        - [Alpine Linux](https://mastodon.social/@alpinelinux@fosstodon.org)
+        - [Arch Linux](https://mastodon.social/@archlinux@fosstodon.org)
+        - [Chimera Linux](https://mastodon.social/@chimera_linux@floss.social)
+      - DEs
+        - [KDE](https://mastodon.social/@kde@floss.social)
+        - [Gnome](https://mastodon.social/@gnome@floss.social)
+    - Tech News
+      - [9to5Linux](https://mastodon.social/@9to5linux@floss.social)
+      - [itsfoss](https://mastodon.social/@itsfoss)
 </details>
 
 ---
