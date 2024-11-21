@@ -212,6 +212,8 @@
     - [Live Ratings](https://2700chess.com/)
     - [World Chess Championships](https://en.wikipedia.org/wiki/World_Chess_Championship)
       - [Lichess](https://lichess.org/page/world-championships)
+  - [LOL](https://www.leagueoflegends.com/en-us/)
+    - [Stats](https://dpm.lol/)
 </details>
 
 ---
