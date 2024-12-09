@@ -280,6 +280,7 @@
   - [Amazon](https://www.amazon.com)
   - [AliExpress](https://www.aliexpress.com/)
   - [Shopee](https://shopee.com.br/)
+  - [Hardware Scraper](https://www.placasdevideo.app.br/)
 </details>
 
 ---
