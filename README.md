@@ -54,6 +54,8 @@
 <details>
   <summary>Tools</summary>
 
+  - [RPG Tools](https://donjon.bin.sh/)
+    - [Map Generator](https://azgaar.github.io/Fantasy-Map-Generator/)
   - [Awesome Image Optimizer](https://squoosh.app/)
   - [Simple Image Editor](https://ondras.github.io/photo/)
   - [Simple Audio Editor](https://audioalter.com/)
