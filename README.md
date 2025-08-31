@@ -283,6 +283,9 @@
   - [AliExpress](https://www.aliexpress.com/)
   - [Shopee](https://shopee.com.br/)
   - [Hardware Scraper](https://www.placasdevideo.app.br/)
+  - Cars
+    - [portimus](https://www.youtube.com/@Portimus/videos)
+    - [bate papo](https://www.youtube.com/@Batepapoautomotivo/videos)
 </details>
 
 ---
