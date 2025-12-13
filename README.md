@@ -18,6 +18,16 @@
 ---
 
 <details>
+  <summary>Health</summary>
+  
+  - [Dr. Cardio DF](https://www.youtube.com/@CardioDF)
+  - [Dr. Gustavo B.](https://www.youtube.com/@drgustavob)
+  - [Planeta Intestina](https://www.youtube.com/@planeta_intestino)
+</details>
+
+---
+
+<details>
   <summary>Search Engines</summary>
   
   - [DuckDuckGo](https://duckduckgo.com/)
