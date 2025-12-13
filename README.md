@@ -333,3 +333,5 @@ Go to your browser settings and set [this page](https://cassiofb-dev.github.io/b
 This project idea is to be a good homepage for me, I will accept pull requests but it would be much faster and better if you just create and edit your own [fork](https://github.com/cassiofb-dev/browser-homepage/fork).
 
 ## License
+
+MIT
