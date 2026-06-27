@@ -28,6 +28,21 @@
 ---
 
 <details>
+  <summary>Ai Chats</summary>
+  
+  - [Zai](https://chat.z.ai/)
+  - [Meta](https://meta.ai/)
+  - [Grok](https://grok.com/)
+  - [Claude](https://claude.ai)
+  - [Gemini](https://gemini.google.com/app)
+  - [Xiaomi](https://aistudio.xiaomimimo.com)
+  - [ChatGPT](https://chatgpt.com/)
+  - [Bytedance](https://www.dola.com/chat)
+</details>
+
+---
+
+<details>
   <summary>Search Engines</summary>
   
   - [DuckDuckGo](https://duckduckgo.com/)
