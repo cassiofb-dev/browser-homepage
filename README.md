@@ -18,6 +18,15 @@
 ---
 
 <details>
+  <summary>Personal Stack</summary>
+
+  - [Cloudflare](https://dash.cloudflare.com/)
+  - [Cloudinary](https://console.cloudinary.com/app)
+</details>
+
+---
+
+<details>
   <summary>Health</summary>
   
   - [Dr. Cardio DF](https://www.youtube.com/@CardioDF)
