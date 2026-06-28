@@ -36,8 +36,9 @@
   - [Claude](https://claude.ai)
   - [Gemini](https://gemini.google.com/app)
   - [Xiaomi](https://aistudio.xiaomimimo.com)
+  - [Alibaba](https://chat.qwen.ai/)
   - [ChatGPT](https://chatgpt.com/)
-  - [Bytedance](https://www.dola.com/chat)
+  - [ByteDance](https://www.dola.com/chat)
 </details>
 
 ---
