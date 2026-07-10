@@ -56,6 +56,16 @@
 ---
 
 <details>
+  <summary>Ai Rankings</summary>
+  
+  - [LiveBench](https://livebench.ai/#/)
+  - [Artifical Analysis](https://artificialanalysis.ai/agents/coding-agents)
+  - [Arena AI](https://arena.ai/leaderboard/code/webdev)
+</details>
+
+---
+
+<details>
   <summary>Search Engines</summary>
   
   - [DuckDuckGo](https://duckduckgo.com/)
