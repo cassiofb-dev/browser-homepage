@@ -58,9 +58,10 @@
 <details>
   <summary>Ai Rankings</summary>
   
-  - [LiveBench](https://livebench.ai/#/)
-  - [Artifical Analysis](https://artificialanalysis.ai/agents/coding-agents)
   - [Arena AI](https://arena.ai/leaderboard/code/webdev)
+  - [LiveBench](https://livebench.ai)
+  - [Design Arena](https://intelligence.ai/leaderboard)
+  - [Artifical Analysis](https://artificialanalysis.ai/agents/coding-agents)
 </details>
 
 ---
