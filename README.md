@@ -43,6 +43,7 @@
   <summary>Ai Chats</summary>
   
   - [Zai](https://chat.z.ai/)
+  - [Kimi](https://www.kimi.com/)
   - [Meta](https://meta.ai/)
   - [Grok](https://grok.com/)
   - [Claude](https://claude.ai)
