@@ -61,7 +61,7 @@
   
   - [Arena AI](https://arena.ai/leaderboard/code/webdev)
   - [LiveBench](https://livebench.ai)
-  - [Design Arena](https://intelligence.ai/leaderboard)
+  - [Design Arena](https://www.designarena.ai/leaderboard)
   - [Artifical Analysis](https://artificialanalysis.ai/agents/coding-agents)
 </details>
 
